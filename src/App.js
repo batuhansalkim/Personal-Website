@@ -1,4 +1,4 @@
-//1:06:06 da kaldım
+//1:22:00 da kaldım
 import './App.css';
 import "./index.css";
 import Home from "./routes/Home";
