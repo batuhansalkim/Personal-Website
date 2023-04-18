@@ -1,4 +1,4 @@
-//1:22:00 da kaldım
+//2:14:00 de kaldım
 import './App.css';
 import "./index.css";
 import Home from "./routes/Home";
@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<Home/>} />
+        <Route path='/' element={<Home />} />
         <Route path='/project' element={<Project />} />
         <Route path='/about' element={<About />} />
         <Route path='/contact' element={<Contact />} />
