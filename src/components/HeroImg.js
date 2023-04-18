@@ -12,7 +12,7 @@ const HeroImg = () => {
             <p>HI, I'M A BATUHAN SALKIM</p>
             <h1>WEB - MOBİLE DEVELOPER</h1>
 
-            <div>
+            <div className="button">
                 <Link to="/project" className="btn">Projects</Link>
                 <Link to="/contact" className="btn btn-light">Contact</Link>
             </div>

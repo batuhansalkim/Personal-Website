@@ -11,6 +11,7 @@
     background-position: center;
     object-fit: cover;
 }
+
 .hero{
     width: 100%;
     height: 100%;
@@ -30,6 +31,9 @@
     font-size: 1.4rem;
     font-weight: 200;
     text-transform: uppercase;
+}
+.button{
+    display: flex;
 }
 .content .btn{
     margin: 1rem 0.2rem;
@@ -52,6 +56,8 @@
     }
     .hero .content p{
     font-size: 1.4rem;
-   
+    }
+    .button{
+        display: block;
     }
 } 
