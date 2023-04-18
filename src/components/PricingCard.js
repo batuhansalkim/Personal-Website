@@ -10,7 +10,7 @@ function PricingCard() {
             <div className="card">
                 <h3>- Basic -</h3>
                 <span className="bar"></span>
-                <p className="btc">Fatih Cörüt Kişisine Bedava (Albardak ibnesine satılmıyor bile )</p>
+                <p className="btc">$ 50</p>
                 <p>- 3 Days -</p>
                 <p>- 3 Pages -</p>
                 <p>- 3 Featured -</p>
@@ -23,7 +23,7 @@ function PricingCard() {
             <div className="card">
                 <h3>- Premium -</h3>
                 <span className="bar"></span>
-                  <p className="btc">Fatih Cörüt Kişisine Bedava (Albardak ibnesine satılmıyor bile )</p>
+                <p className="btc">$ 75</p>
                 <p>- 2 Days -</p>
                 <p>- 5 Pages -</p>
                 <p>- 3 Featured -</p>
@@ -36,9 +36,9 @@ function PricingCard() {
             <div className="card">
                 <h3>- Bussines -</h3>
                 <span className="bar"></span>
-                  <p className="btc">Fatih Cörüt Kişisine Bedava (boşuna bakma olum sana satılmıyor rizeli )</p>
+                <p className="btc">$ 100</p>
                 <p>- 5 Days -</p>
-                <p>- 8 Pages -</p>
+                <p>- Pages -</p>
                 <p>- 3 Featured -</p>
                 <p>- Responsive Design -</p>
                 <Link to="/contact" className="btn">
