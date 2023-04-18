@@ -7,7 +7,7 @@ import "./WorkCardStyles.css";
 const WorkCard = ({imgsrc,title,text,view}) => {
     return (
         <div className="project-card">
-            <img src={imgsrc} alt="image" />
+            <img src={imgsrc}  />
             <h2 className="project-title">{title }</h2>
             <div className="pro-details">
                 <p>{text}</p>
